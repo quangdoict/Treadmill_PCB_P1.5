@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\Working\Hardware\SportOne_Phase2\Sport1_PCB_Phase1.5_15032021\PCB_P1.5_150321.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=15.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00

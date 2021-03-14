@@ -1,0 +1,27 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PCB_Project1.PrjPCB]
+   Generated File[PCB_P1.5_150321.GTL]
+   Generated File[PCB_P1.5_150321.GBL]
+   Generated File[PCB_P1.5_150321.GPB]
+   Generated File[PCB_P1.5_150321.GPT]
+   Generated File[PCB_P1.5_150321.GTO]
+   Generated File[PCB_P1.5_150321.GTP]
+   Generated File[PCB_P1.5_150321.GTS]
+   Generated File[PCB_P1.5_150321.GBS]
+   Generated File[PCB_P1.5_150321.GKO]
+   Generated File[PCB_P1.5_150321.GM1]
+   Generated File[PCB_P1.5_150321.GM8]
+   Generated File[PCB_P1.5_150321.GM15]
+   Generated File[PCB_P1.5_150321.GM20]
+   Generated File[PCB_P1.5_150321.GD1]
+   Generated File[PCB_P1.5_150321.GG1]
+   Generated File[PCB_P1.5_150321.RUL]
+   Generated File[PCB_P1.5_150321.EXTREP]
+   Generated File[PCB_P1.5_150321.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 1:05:06 AM On 15/03/2021
